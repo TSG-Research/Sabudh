@@ -1,0 +1,91 @@
+Police_Station,type,value
+Anandpur Sahib ,Head On,7
+Chamkaur Sahib,Head On,6
+City Ropar,Head On,5
+Kiratpur Sahib,Head On,8
+Morinda,Head On,13
+Nangal,Head On,5
+Nurpur Bedi,Head On,10
+Sadar Roopnagar,Head On,10
+Singh Bhagwantpura ,Head On,0
+Anandpur Sahib ,Head On Tail,0
+Chamkaur Sahib,Head On Tail,0
+City Ropar,Head On Tail,0
+Kiratpur Sahib,Head On Tail,0
+Morinda,Head On Tail,0
+Nangal,Head On Tail,0
+Nurpur Bedi,Head On Tail,0
+Sadar Roopnagar,Head On Tail,0
+Singh Bhagwantpura ,Head On Tail,0
+Anandpur Sahib ,Hit And Run,0
+Chamkaur Sahib,Hit And Run,0
+City Ropar,Hit And Run,0
+Kiratpur Sahib,Hit And Run,10
+Morinda,Hit And Run,0
+Nangal,Hit And Run,0
+Nurpur Bedi,Hit And Run,0
+Sadar Roopnagar,Hit And Run,0
+Singh Bhagwantpura ,Hit And Run,0
+Anandpur Sahib ,Hit Cyclist,0
+Chamkaur Sahib,Hit Cyclist,0
+City Ropar,Hit Cyclist,1
+Kiratpur Sahib,Hit Cyclist,0
+Morinda,Hit Cyclist,0
+Nangal,Hit Cyclist,3
+Nurpur Bedi,Hit Cyclist,0
+Sadar Roopnagar,Hit Cyclist,3
+Singh Bhagwantpura ,Hit Cyclist,1
+Anandpur Sahib ,Hit Fixed Object,1
+Chamkaur Sahib,Hit Fixed Object,0
+City Ropar,Hit Fixed Object,0
+Kiratpur Sahib,Hit Fixed Object,0
+Morinda,Hit Fixed Object,0
+Nangal,Hit Fixed Object,0
+Nurpur Bedi,Hit Fixed Object,0
+Sadar Roopnagar,Hit Fixed Object,0
+Singh Bhagwantpura ,Hit Fixed Object,0
+Anandpur Sahib ,Hit From Back,7
+Chamkaur Sahib,Hit From Back,2
+City Ropar,Hit From Back,6
+Kiratpur Sahib,Hit From Back,4
+Morinda,Hit From Back,0
+Nangal,Hit From Back,4
+Nurpur Bedi,Hit From Back,0
+Sadar Roopnagar,Hit From Back,0
+Singh Bhagwantpura ,Hit From Back,4
+Anandpur Sahib ,Hit From Side,0
+Chamkaur Sahib,Hit From Side,0
+City Ropar,Hit From Side,0
+Kiratpur Sahib,Hit From Side,0
+Morinda,Hit From Side,0
+Nangal,Hit From Side,2
+Nurpur Bedi,Hit From Side,0
+Sadar Roopnagar,Hit From Side,0
+Singh Bhagwantpura ,Hit From Side,0
+Anandpur Sahib ,Hit Pedestrian,2
+Chamkaur Sahib,Hit Pedestrian,0
+City Ropar,Hit Pedestrian,5
+Kiratpur Sahib,Hit Pedestrian,0
+Morinda,Hit Pedestrian,3
+Nangal,Hit Pedestrian,2
+Nurpur Bedi,Hit Pedestrian,0
+Sadar Roopnagar,Hit Pedestrian,11
+Singh Bhagwantpura ,Hit Pedestrian,4
+Anandpur Sahib ,Sideswipe,2
+Chamkaur Sahib,Sideswipe,0
+City Ropar,Sideswipe,5
+Kiratpur Sahib,Sideswipe,0
+Morinda,Sideswipe,2
+Nangal,Sideswipe,1
+Nurpur Bedi,Sideswipe,0
+Sadar Roopnagar,Sideswipe,0
+Singh Bhagwantpura ,Sideswipe,4
+Anandpur Sahib ,Unknown,0
+Chamkaur Sahib,Unknown,4
+City Ropar,Unknown,0
+Kiratpur Sahib,Unknown,0
+Morinda,Unknown,0
+Nangal,Unknown,2
+Nurpur Bedi,Unknown,3
+Sadar Roopnagar,Unknown,0
+Singh Bhagwantpura ,Unknown,0

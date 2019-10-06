@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Circular Heat Map</title>
+
+<!-- JavaScript Libraries //-->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+
+<!-- CSS Style //-->
+<link href="style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="main.js"></script>
+</head>
+
+<body>
+    <div style="margin-left:50px;"  id="chart"></div>
+</body>
+<script>
+
+    d3.csv('radial_heat.csv', function(data){
+        console.log(data);
+    
+    var radial_labels = ["Head On","Head On Tail","Hit And Run","Hit Cyclist", "Hit Fixed Object", "Hit From Back", "Hit From Side", "Hit Pedestrian", "Sideswipe", "Unknown"];
+    var segment_labels = ['Anandpur Sahib ', 'Chamkaur Sahib', 'City Ropar', 'Kiratpur Sahib', 'Morinda', 'Nangal', 'Nurpur Bedi', 'Sadar Roopnagar', 'Singh Bhagwantpura '];
+
+    loadCircularHeatMap(data,"#chart",radial_labels, segment_labels);
+    })
+</script>
+</html>
