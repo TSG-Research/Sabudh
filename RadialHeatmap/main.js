@@ -56,6 +56,17 @@ function loadCircularHeatMap (dataset, dom_element_to_append_to,radial_labels,se
     .on('mouseout', function(d) {
         tooltip.style('display', 'none');
         tooltip.style('opacity',0);
+    })
+    .on('click', function(d){
+        tooltip.style('opacity', 0);
+        var choices = {}
+        choices.Police_Station = new Array();
+        choices.me = new Array();
+
+        choices.Police_Station.push(d.Police_Station)
+        choices.me.push("Police_Station")
+
+        window.top.postMessage(choices, "*");
     });
 }
 
