@@ -1,0 +1,9 @@
+celery
+werkzeug
+boto3
+sqlalchemy
+mysql-connector-python-rf
+flask
+pandas
+pyjwt
+passlib

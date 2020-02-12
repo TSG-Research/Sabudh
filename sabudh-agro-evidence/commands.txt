@@ -1,0 +1,3 @@
+To start celery worker:-
+$ PYTHONPATH=`pwd`/.. celery worker -A upload_files_celery -l info
+

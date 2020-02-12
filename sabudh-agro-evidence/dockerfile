@@ -1,0 +1,18 @@
+FROM grahamdumpleton/mod-wsgi-docker:python-3.5
+WORKDIR /app/
+COPY . .
+RUN pip install flask_cors
+RUN pip install flask
+RUN pip install werkzeug
+RUN pip install boto3
+RUN pip install sqlalchemy
+RUN pip install mysql-connector-python-rf
+RUN pip install flask
+RUN pip install pandas
+RUN pip install pyjwt
+RUN pip install passlib
+RUN pip install uwsgi
+
+EXPOSE 80
+#EXPOSE 9292
+CMD uwsgi --http 0.0.0.0:80 --wsgi-file /app/app.py --callable app --processes 2 --threads 2 --stats 127.0.0.1:9292 --socket-timeout 6000 --http-timeout 6000
